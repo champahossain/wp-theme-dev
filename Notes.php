@@ -29,7 +29,14 @@ add_action ('after_setup_theme', 'page_title_function');
 
 //We learnt in section 6
 ==================================
-
+Lesson objectives:
+1.How to create a blog page 
+2.How to bring posts elements on the page 
+------------
+3.How to add pagination in blog page
+4.How to create a single post page
+------------
+5.How to create a blog archive page
 
 //We learnt in section 7
 ==================================

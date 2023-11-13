@@ -47,7 +47,7 @@ Lesson objectives:
 For lesson objective 1(lessn 36):
 1. To create a custom post type we added a set of code in must plugin file 
 2. We created a single page and a archive page for the new custom post type
-3. We created a related fiedl in event post to link program post
+3. We created a related field in event post to link program post
 ---------------
 For lesson objective 2(lessn 37):
 
@@ -57,4 +57,11 @@ For lesson objective 2(lessn 37):
 Lesson objectives:
 1. How to create a custom post type named 'Professor'
 2. How to associate an image with each professor post
+
+---------------
+For lesson objective 1(lessn 40):
+1. To create a custom post type we added a set of code in must plugin file 
+2. We created a single page template for it
+3. We created a related field in event post to link program post
+4. We created a relation to Program post type in single-program.php file
 

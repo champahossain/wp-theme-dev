@@ -38,7 +38,23 @@ Lesson objectives:
 ------------
 5.How to create a blog archive page
 
-//We learnt in section 7
+//We learnt in section 8
 ==================================
+Lesson objectives:
+1. How to create a custom post type named 'Program'
+2. How to create relationship between two custom post types 
+---------------
+For lesson objective 1(lessn 36):
+1. To create a custom post type we added a set of code in must plugin file 
+2. We created a single page and a archive page for the new custom post type
+3. We created a related fiedl in event post to link program post
+---------------
+For lesson objective 2(lessn 37):
 
+
+//We learnt in section 9
+==================================
+Lesson objectives:
+1. How to create a custom post type named 'Professor'
+2. How to associate an image with each professor post
 

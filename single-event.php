@@ -23,7 +23,8 @@ the_post(); ?>
 <div class="generic-content"></div>
 	<?php the_content() ?>
 
-  <?php $relatdPrograms = get_field('related_programs');
+  <?php 
+  $relatdPrograms = get_field('related_programs');
   // print_r($relatdPrograms);
   if($relatdPrograms){
   echo '<hr class="section-break">';

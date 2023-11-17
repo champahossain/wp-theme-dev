@@ -85,3 +85,6 @@ Lesson 45: we are trying to create a dynamic page banner for all pages and custo
    ==============
 Lesson 48: We are trying to use pageBanner(), into all out templates
    i. the way is to call the function in archive page and pass argument in array inside the function
+   =============
+Lesson 49: We are reducing the use of duplicate codes by using get_template_part('location of the targetted template') e.g. get_template_part('template-parts/event')
+   i. to achieve that we created a sub fol

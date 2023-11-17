@@ -75,10 +75,13 @@ Lesson 43: How to make page banner background dynamic
 
 //We learnt in section 10
 ==================================
-Lesson 45. we are trying to create a dynamic page banner for all pages and custom post types
+Lesson 45: we are trying to create a dynamic page banner for all pages and custom post types
    i. We created a function called pageBanner in function.php which will work like a global function and and can be used anywhere in the site like other wordpress function.
    ii. The function is having some if conditions for title, subtitle, and background image which will work on passing arguments
         By the way meanwhile we created two more custom fields for all post type. The fields are 'page banner subtile' and 'page banner background image'
        conditon - if a page does not have custom title, it will have a fallback title. Same for subtitle too.
        conditon - if a page does not have custom uploaded background, it will have a fallback image
    ii. First of all we will use page banner function in page.php file 
+   ==============
+Lesson 48: We are trying to use pageBanner(), into all out templates
+   i. the way is to call the function in archive page and pass argument in array inside the function

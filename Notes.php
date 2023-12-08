@@ -88,3 +88,8 @@ Lesson 48: We are trying to use pageBanner(), into all out templates
    =============
 Lesson 49: We are reducing the use of duplicate codes by using get_template_part('location of the targetted template') e.g. get_template_part('template-parts/event')
    i. to achieve that we created a sub fol
+
+//We learnt in section 10
+==================================
+Lesson 50: We are going to get our computer ready Javascript 
+   i. We installed nodejs
